@@ -1,4 +1,11 @@
-#Hacker News
+# Hacker News - What is the best chance of being posted on the front page?
+
+<img src = "hn-logo.png" style="width:400px;height:300px" vspace = "40"/>
+
+This project
+
+
+Below is a list of items within the dataset. Read carefully for a better understanding of the different items being explored in this assignment.
 
 Description of Columns:
 * id: The unique identifier from Hacker News for the post
