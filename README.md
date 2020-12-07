@@ -1,4 +1,4 @@
-#Hacker News - What is the best chance of being posted on the front page?
+# Hacker News - What is the best chance of being posted on the front page?
 
 <img src = "hn-logo.png" style="width:400px;height:300px" vspace = "40"/>
 
