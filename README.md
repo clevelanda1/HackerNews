@@ -1,4 +1,4 @@
-# Increase your chances of being ranked on the front page
+# Hacker News - Highest Results - Ranking System
 
 In this project the data will be used to support and determine characteristics of a model that may further assist the community. The idea states that through the findings referenced below, anyone who uses this flatform can receive some valuable information that can affect the value in which they receive from others. 
 
