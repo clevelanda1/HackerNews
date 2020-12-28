@@ -3,7 +3,7 @@
 ## Table of Contents
  * [Project Information](#project-information)
  * [Column Description](#column-description)
- * FAQs](#faqs)
+ * [FAQs](#faqs)
  * [Requirements](#requirements)
  * [Installation](#installation)
  * [Acknoledgments](#acknoledgments)
