@@ -1,6 +1,6 @@
 # Increase your chances of being ranked on the front page
 
-In this project the data will be used to support its findings and determine characteristics of that model to further assist the community. The idea states that through the findings in the project below, anyone who uses this flatform can receive some valuable information that can affect the value in which they'll receive from others. 
+In this project the data will be used to support and determine characteristics of a model that may further assist the community. The idea states that through the findings referenced below, anyone who uses this flatform can receive some valuable information that can affect the value in which they receive from others. 
 
 ## Table of Contents
  * [Project Information](#project-information)
