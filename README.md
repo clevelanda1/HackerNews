@@ -1,6 +1,6 @@
 # Hacker News - Increase your chances of being ranked on the front page
 
-<img src = "hn-logo.png" style="width:300px;height:200px" vspace = "40"/>
+<img src = "hn-logo.png" style="width:100px;height:100px" vspace = "40"/>
 
 This project
 
