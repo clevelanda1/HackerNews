@@ -14,7 +14,10 @@ In this project the data will be used to support its findings and determine char
 
 The Hacker News website is a servicable platform where users interact with each other, typically through sourcing information or in the form of posing a formal question. A single posts non discriminant to the type of post will be ranked. `The basic algorithm divides points by a power of the time since a story was submitted. Comments in threads are ranked the same way. Other factors affecting rank include user flags, anti-abuse software, software which demotes overheated discussions, account or site weighting, and moderator action.` Given the system Hacker News uses to support its community, our analysis will be based off the part of the algorithm dealing with comments. 
 
+## FAQs
 
+  Without further information being provided about the Hacker News website or how it functions in terms of how users interact with one another. Check out the [frequently asked questions](https://news.ycombinator.com/newsfaq.html) page for more details.
+  
 ## Column Description
 
  Read carefully for a better understanding of the different items being explored in this assignment.
@@ -26,10 +29,6 @@ The Hacker News website is a servicable platform where users interact with each 
    * num_comments: The number of comments that wer made on the post
    * author: The username of the person who submitted the post
    * crated_at: The date and time at which the post was submitted
-
-## FAQs
-
-  Without further information being provided about the Hacker News website or how it functions in terms of how users interact with one another. Check out the [frequently asked questions](https://news.ycombinator.com/newsfaq.html) page for more details.
 
 ## Requirements
 
