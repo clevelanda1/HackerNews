@@ -42,7 +42,6 @@ Follow the link and [download](https://www.python.org/downloads) Python and the 
 Choose one of the two Anaconda distributions [Miniconda](http://conda.pydata.org/miniconda.html) or [Anaconda](https://www.continuum.io/downloads).
 *Run Jupyter Notebook:* 
 Access the Jupyter Notebook package within the Anaconda distribution for this assignment.
-<img src="C:\Users\Dell User\Desktop\py_dwnl.png" alt="py_img" width="450" height="400" />
 *Download Dataset:* [Hacker News Dataset](https://www.kaggle.com/hacker-news/hacker-news-posts).
 *Imported Libraries:* 
 Reader, Pandas, Datetime, Matplotlib.
