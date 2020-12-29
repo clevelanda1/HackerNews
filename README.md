@@ -2,7 +2,7 @@
 
 In this project the data will be used to support and determine characteristics of a model that may further assist the community. The idea states that through the findings referenced below, anyone who uses this flatform can receive some valuable information that can affect the value in which they receive from others. 
 
-## Table of Contents
+# Table of Contents
  * [Project Information](#project-information)
  * [FAQs](#faqs)
  * [Column Description](#column-description)
@@ -14,11 +14,11 @@ In this project the data will be used to support and determine characteristics o
 
 The Hacker News website is a servicable platform where users interact with each other, typically through sourcing information or in the form of posing a formal question. A single posts non discriminant to the type of post will be ranked. `The basic algorithm divides points by a power of the time since a story was submitted. Comments in threads are ranked the same way. Other factors affecting rank include user flags, anti-abuse software, software which demotes overheated discussions, account or site weighting, and moderator action.` Given the system Hacker News uses to support its community, our analysis will be based off the part of the algorithm dealing with comments. 
 
-## FAQs
+# FAQs
 
   Without further information being provided about the Hacker News website or how it functions in terms of how users interact with one another. Check out the [frequently asked questions](https://news.ycombinator.com/newsfaq.html) page for more details.
   
-## Column Description
+# Column Description
 
  Read carefully for the best understanding of the different columns being explored in this assignment.
 
@@ -30,17 +30,17 @@ The Hacker News website is a servicable platform where users interact with each 
    * author: The username of the person who submitted the post
    * crated_at: The date and time at which the post was submitted
 
-## Requirements
+# Requirements
 
-## Installation
-  # Install Python ver 3.8.3
+# Installation
+  ## Install Python ver 3.8.3
     Follow the [link](https://www.python.org/downloads/) and download Python
-  # Install Anacondas
-  # Run Jupyter Notbook
-  # Download Dataset
+  ## Install Anacondas
+  ## Run Jupyter Notbook
+  ## Download Dataset
     Download the dataset [here](https://www.kaggle.com/hacker-news/hacker-news-posts)
-  # skjd
+  ## skjd
 
-## Acknowledgments
+# Acknowledgments
 
 
