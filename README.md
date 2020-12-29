@@ -41,7 +41,7 @@ Without further information being provided about the Hacker News website or how 
 *Run Jupyter Notebook*: 
 > Access the Jupyter Notebook package within the Anaconda distribution for this assignment.
 
-*Download Dataset*: [Here](https://www.kaggle.com/hacker-news/hacker-news-posts).
+*Download Dataset*: [Hacker News Dataset](https://www.kaggle.com/hacker-news/hacker-news-posts).
 
 ## Acknowledgments
 
