@@ -32,7 +32,7 @@ Without further information being provided about the Hacker News website or how 
 
 ## Requirements/Installation
 
-*Download Python verion 3.8.3*: Follow the [link](https://www.python.org/downloads) and download Python and the suite of libraries that enable scientific computing.
+*Download Python verion 3.8.3*: Follow the link and [download](https://www.python.org/downloads) Python and the suite of libraries that enable scientific computing.
 *Download Anacondas*: Choose one of the two Anaconda distributions [Miniconda](http://conda.pydata.org/miniconda.html) or [Anaconda](https://www.continuum.io/downloads).
 *Run Jupyter Notebook*: Access the Jupyter Notebook package within the Anaconda distribution for this assignment.
 *Download Dataset*: Available [here](https://www.kaggle.com/hacker-news/hacker-news-posts).
