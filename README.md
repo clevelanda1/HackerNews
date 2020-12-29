@@ -1,11 +1,11 @@
-# Hacker News - Ranking System - Producing Higher Results
+# Hacker News - Ranking System - Comment Driven Results
 
 In this project the data will be used to support and determine characteristics of a model that may further assist the community. The idea states that through the findings referenced below, anyone who uses this flatform can receive some valuable information that can affect the value in which they receive from others. 
 
 ## Table of Contents
  * [Project Information](#project-information)
- * [Column Description](#column-description)
  * [FAQs](#faqs)
+ * [Column Description](#column-description)
  * [Requirements](#requirements)
  * [Installation](#installation)
  * [Acknoledgments](#acknoledgments)
@@ -20,7 +20,7 @@ The Hacker News website is a servicable platform where users interact with each 
   
 ## Column Description
 
- Read carefully for a better understanding of the different items being explored in this assignment.
+ Read carefully for the best understanding of the different columns being explored in this assignment.
 
    * id: The unique identifier from Hacker News for the post
    * title: The title of the post
@@ -33,6 +33,13 @@ The Hacker News website is a servicable platform where users interact with each 
 ## Requirements
 
 ## Installation
+  # Install Python ver 3.8.3
+    Follow the [link](https://www.python.org/downloads/) and download Python
+  # Install Anacondas
+  # Run Jupyter Notbook
+  # Download Dataset
+    Download the dataset [here](https://www.kaggle.com/hacker-news/hacker-news-posts)
+  # skjd
 
 ## Acknowledgments
 
