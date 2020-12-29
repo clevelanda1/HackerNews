@@ -43,5 +43,5 @@ Available [here](https://www.kaggle.com/hacker-news/hacker-news-posts).
 
 ## Acknowledgments
 
-The scraped data to be sourced in this project is contributed from the Kaggle notebook [Hacker News Post](https://www.kaggle.com/hacker-news/hacker-news-posts)
+The web sraping required for this data can be contributed from the Kaggle notebook [Hacker News Post](https://www.kaggle.com/hacker-news/hacker-news-posts)
 
