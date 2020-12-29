@@ -12,7 +12,8 @@ In this repository the data available below will be used to support and determin
  
  ## Project Background
 
-The Hacker News website is a servicable platform where users interact with each other, typically through sourcing information or in the form of posing a formal question. A single posts non discriminant to the type of post will be ranked accordingly. `The basic algorithm divides points by a power of the time since a story was submitted. Comments in threads are ranked the same way. Other factors affecting rank include user flags, anti-abuse software, software which demotes overheated discussions, account or site weighting, and moderator action.` Given the system Hacker News uses to support its community, our analysis will be based off the part of the algorithm dealing with the comments. 
+The Hacker News website is a servicable platform where users interact with each other, typically through sourcing information or in the form of posing a formal question. A single posts non discriminant to the type of post will be ranked accordingly. > The basic algorithm divides points by a power of the time since a story was submitted. Comments in threads are ranked the same way. Other factors affecting rank include user flags, anti-abuse software, software which demotes overheated discussions, account or site weighting, and moderator action. 
+Given the system Hacker News uses to support its community, our analysis will be based off the part of the algorithm dealing with the comments. 
 
 ## FAQs
 
@@ -33,14 +34,11 @@ Without further information being provided about the Hacker News website or how 
 ## Requirements/Installation
 
 *Download Python verion 3.8.3*: 
-> Follow the link and [download](https://www.python.org/downloads) Python and the suite of libraries that enable scientific computing.
-
+Follow the link and [download](https://www.python.org/downloads) Python and the suite of libraries that enable scientific computing.
 *Download Anacondas*: 
-> Choose one of the two Anaconda distributions [Miniconda](http://conda.pydata.org/miniconda.html) or [Anaconda](https://www.continuum.io/downloads).
-
+Choose one of the two Anaconda distributions [Miniconda](http://conda.pydata.org/miniconda.html) or [Anaconda](https://www.continuum.io/downloads).
 *Run Jupyter Notebook*: 
-> Access the Jupyter Notebook package within the Anaconda distribution for this assignment.
-
+Access the Jupyter Notebook package within the Anaconda distribution for this assignment.
 *Download Dataset*: [Hacker News Dataset](https://www.kaggle.com/hacker-news/hacker-news-posts).
 
 ## Acknowledgments
