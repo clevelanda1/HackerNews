@@ -43,7 +43,7 @@ Choose one of the two Anaconda distributions [Miniconda](http://conda.pydata.org
 *Run Jupyter Notebook*: 
 Access the Jupyter Notebook package within the Anaconda distribution for this assignment.
 *Download Dataset*: [Hacker News Dataset](https://www.kaggle.com/hacker-news/hacker-news-posts).
-*Libraries*: Import Reader, Pandas, Datetime, Matplotlib
+*Imported Libraries*: Reader, Pandas, Datetime, Matplotlib
 
 ## Acknowledgments
 
