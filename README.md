@@ -39,4 +39,5 @@ Without further information being provided about the Hacker News website or how 
 
 ## Acknowledgments
 
+The data to be sourced in this project is contributed from the Kaggle notebook [Hacker News Post](https://www.kaggle.com/hacker-news/hacker-news-posts)
 
