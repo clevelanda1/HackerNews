@@ -49,6 +49,6 @@ Access the Jupyter Notebook package within the Anaconda distribution for this as
 #### Download Dataset: [Hacker News Dataset](https://www.kaggle.com/hacker-news/hacker-news-posts).
 *Imported Libraries*: Reader, Pandas, Datetime, Matplotlib.
 
-#### Acknowledgments
+## Acknowledgments
 The web sraping required for this data can be contributed from the Kaggle notebook [Hacker News Post](https://www.kaggle.com/hacker-news/hacker-news-posts).
 
