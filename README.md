@@ -38,6 +38,8 @@ Without further information being provided about the Hacker News website or how 
 
 *Download Python verion 3.8.3*: 
 Follow the link and [download](https://www.python.org/downloads) Python and the suite of libraries that enable scientific computing.
+<img src="\Users\Dell User\Desktop\py_dwnl" alt="py_img" width="150" height="100" />
+
 *Download Anacondas*: 
 Choose one of the two Anaconda distributions [Miniconda](http://conda.pydata.org/miniconda.html) or [Anaconda](https://www.continuum.io/downloads).
 *Run Jupyter Notebook*: 
