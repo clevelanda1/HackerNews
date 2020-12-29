@@ -16,8 +16,6 @@ The Hacker News website is a servicable platform where users interact with each 
 
 > The basic algorithm divides points by a power of the time since a story was submitted. Comments in threads are ranked the same way. Other factors affecting rank include user flags, anti-abuse software, software which demotes overheated discussions, account or site weighting, and moderator action. 
 
-Given the system Hacker News uses to support its community, our analysis will be based off the part of the algorithm dealing with the comments. 
-
 ## FAQs
 
 Without further information being provided about the Hacker News website or how it functions in terms of how users interact with one another. Check out the [frequently asked questions](https://news.ycombinator.com/newsfaq.html) page for more details.
