@@ -16,7 +16,7 @@ The Hacker News website is a servicable platform where users interact with each 
 
 ## FAQs
 
-  Without further information being provided about the Hacker News website or how it functions in terms of how users interact with one another. Check out the [frequently asked questions](https://news.ycombinator.com/newsfaq.html) page for more details.
+Without further information being provided about the Hacker News website or how it functions in terms of how users interact with one another. Check out the [frequently asked questions](https://news.ycombinator.com/newsfaq.html) page for more details.
   
 ## Column Description
 
@@ -30,14 +30,12 @@ The Hacker News website is a servicable platform where users interact with each 
    * author: The username of the person who submitted the post
    * crated_at: The date and time at which the post was submitted
 
-## Requirements
+## Requirements/Installation
 
-## Installation
-
-  *Download Python verion 3.8.3*: Follow the [link](https://www.python.org/downloads) and download Python and the suite of libraries that enable scientific computing.
-  *Download Anacondas*: Choose one of the two Anaconda distributions [Miniconda](http://conda.pydata.org/miniconda.html) or [Anaconda](https://www.continuum.io/downloads).
-  *Run Jupyter Notebook*: Access the Jupyter Notebook package within the Anaconda distribution for this assignment.
-  *Download Dataset*: Available [here](https://www.kaggle.com/hacker-news/hacker-news-posts).
+*Download Python verion 3.8.3*: Follow the [link](https://www.python.org/downloads) and download Python and the suite of libraries that enable scientific computing.
+*Download Anacondas*: Choose one of the two Anaconda distributions [Miniconda](http://conda.pydata.org/miniconda.html) or [Anaconda](https://www.continuum.io/downloads).
+*Run Jupyter Notebook*: Access the Jupyter Notebook package within the Anaconda distribution for this assignment.
+*Download Dataset*: Available [here](https://www.kaggle.com/hacker-news/hacker-news-posts).
 
 ## Acknowledgments
 
