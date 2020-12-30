@@ -8,7 +8,7 @@ In this repository the data will be used to support and determine characteristic
  * [Column Description](#column-description)
  * [Requirements](#requirements)
  * [Requirements/Installation](#installation)
- * [Acknoledgments](#acknoledgments) 
+ * [Acknowledgments](#acknoledgments) 
  
  ## Project Background
 
