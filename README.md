@@ -1,4 +1,4 @@
-# Hacker News - Ranking System - Comment Driven Results
+# Defining Characteristics within the Working Model
 
 In this repository the data will be used to support and determine characteristics of a model that may further assist the community. The idea states that through the findings referenced in the project, anyone who uses this flatform can receive some valuable information that can affect the value in which they receive from others. 
 
@@ -8,7 +8,7 @@ In this repository the data will be used to support and determine characteristic
  * [Column Description](#column-description)
  * [Requirements](#requirements)
  * [Requirements/Installation](#installation)
- * [Acknoledgments](#acknoledgments) 
+ * [Acknowledgments](#acknoledgments) 
  
  ## Project Background
 
@@ -34,14 +34,14 @@ Without further information being provided about the Hacker News website or how 
 
 ## Requirements/Installation
 
-*Download Python verion 3.8.3:*
-Follow the link and [download](https://www.python.org/downloads) Python and the suite of libraries that enable scientific computing.
-*Download Anacondas:*
+#### Download Python verion 3.8.3:
+Follow the link and [Download](https://www.python.org/downloads) Python and the suite of libraries that enable scientific computing.
+#### Download Anacondas:
 Choose one of the two Anaconda distributions [Miniconda](http://conda.pydata.org/miniconda.html) or [Anaconda](https://www.continuum.io/downloads).
-*Run Jupyter Notebook:* 
+#### Run Jupyter Notebook:
 Access the Jupyter Notebook package within the Anaconda distribution for this assignment.
-*Download Dataset:* [Hacker News Dataset](https://www.kaggle.com/hacker-news/hacker-news-posts).
-*Imported Libraries:* 
+#### Download Dataset: [Here](https://www.kaggle.com/hacker-news/hacker-news-posts)
+#### Imported Libraries:
 Reader, Pandas, Datetime, Matplotlib.
 
 ## Acknowledgments
