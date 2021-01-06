@@ -1,6 +1,4 @@
-# Defining Characteristics within the Working Model
-
-In this project the goal is to clean the data and analyze eachto support and determine characteristics of a model that may further assist the community. The idea states that through the findings referenced in the project, anyone who uses this flatform can receive some valuable information that can affect the value in which they receive from others. 
+# Used Cars Data 
 
 ## Table of Contents
  * [Project Background](#project-background)
