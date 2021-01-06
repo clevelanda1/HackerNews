@@ -46,9 +46,7 @@ Hacker News website is a servicable platform where users interact with each othe
    
 ## FAQs
 
- What is the definition of a [crawler](https://whatis.techtarget.com/definition/crawler)?
- What is [A/B testing](https://en.wikipedia.org/wiki/A/B_testing)?
- What does PS stand for in relation to Power? `Power Supply`
+What is the definition of a [crawler](https://whatis.techtarget.com/definition/crawler)? What is [A/B testing](https://en.wikipedia.org/wiki/A/B_testing)? What does PS stand for in relation to Power? `Power Supply`
 
 ## Requirements/Installation
 
