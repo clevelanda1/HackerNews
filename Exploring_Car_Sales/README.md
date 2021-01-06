@@ -1,6 +1,6 @@
 # Defining Characteristics within the Working Model
 
-In this repository the data will be used to support and determine characteristics of a model that may further assist the community. The idea states that through the findings referenced in the project, anyone who uses this flatform can receive some valuable information that can affect the value in which they receive from others. 
+In this project the goal is to clean the data and analyze eachto support and determine characteristics of a model that may further assist the community. The idea states that through the findings referenced in the project, anyone who uses this flatform can receive some valuable information that can affect the value in which they receive from others. 
 
 ## Table of Contents
  * [Project Background](#project-background)
@@ -12,12 +12,7 @@ In this repository the data will be used to support and determine characteristic
  
  ## Project Background
 
-The data provided for this project has been scraped from eBay Kleinanzeigen, a classfields section of the German eBay website. 
-
-Hacker News website is a servicable platform where users interact with each other, typically through sourcing information or in the form of posing a formal question. A single posts non discriminant to the type of post will be ranked accordingly. 
-
-> The basic algorithm divides points by a power of the time since a story was submitted. Comments in threads are ranked the same way. Other factors affecting rank include user flags, anti-abuse software, software which demotes overheated discussions, account or site weighting, and moderator action. 
-
+The data provided for this project has been scraped from eBay Kleinanzeigen, a classfields section of the German eBay website. In this project the intended goal is to clean the data made available and analyze the used carlistings.
   
 ## Column Description
 
@@ -46,7 +41,7 @@ Hacker News website is a servicable platform where users interact with each othe
    
 ## FAQs
 
-What is the definition of a [crawler](https://whatis.techtarget.com/definition/crawler)? What is [A/B testing](https://en.wikipedia.org/wiki/A/B_testing)? What does PS stand for in relation to Power? `Power Supply`
+What is the definition of a [crawler](https://whatis.techtarget.com/definition/crawler)?  What is [A/B testing](https://en.wikipedia.org/wiki/A/B_testing)?  What does PS stand for in relation to Power? `Power Supply`
 
 ## Requirements/Installation
 
