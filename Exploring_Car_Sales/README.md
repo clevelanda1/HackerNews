@@ -58,7 +58,8 @@ Follow the link and [Download](https://www.python.org/downloads) Python and the 
 Choose one of the two Anaconda distributions [Miniconda](http://conda.pydata.org/miniconda.html) or [Anaconda](https://www.continuum.io/downloads).
 #### Run Jupyter Notebook:
 Access the Jupyter Notebook package within the Anaconda distribution for this assignment.
-#### Download Dataset: [Here](https://data.world/data-society/used-cars-data)
+#### Download Dataset: 
+[Here](https://data.world/data-society/used-cars-data)
 #### Imported Libraries:
 Reader, Pandas, Datetime, Matplotlib.
 
