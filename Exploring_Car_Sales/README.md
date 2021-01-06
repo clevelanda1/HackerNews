@@ -12,7 +12,7 @@ In this project the goal is to clean the data and analyze eachto support and det
  
  ## Project Background
 
-The data provided for this project has been scraped from eBay Kleinanzeigen, a classfields section of the German eBay website. In this project the intended goal is to clean the data made available and analyze the used carlistings.
+The data provided for this project has been scraped from eBay Kleinanzeigen, a classfields section of the German eBay website. The content of this data consist of over 370,00 used cars and is presented in german. The sample data will consist of only 50,000 listings. In this project the intended goal is to clean the data made available and analyze the used car listings.
   
 ## Column Description
 
