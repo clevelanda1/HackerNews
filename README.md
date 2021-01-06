@@ -7,8 +7,8 @@ User(s) related analytics based on Hacker News dataset
 
 * Pattern and Trend Identification
 * Report Writing
+* Project Organization
 * Python - Datetime Library
 * Python - Matplotlib Library
-* Organization
 
 ## Exploring Ebay Car Sales
