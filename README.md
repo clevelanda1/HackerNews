@@ -7,7 +7,7 @@ User(s) related analytics based on Hacker News dataset
 
 * Pattern and Trend Identification
 * Report Writing
-* Organization
+* Project Organization
 * Python - Datetime Library
 * Python - Matplotlib Library
 
