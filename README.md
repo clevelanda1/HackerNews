@@ -24,7 +24,7 @@ Explore the Ebay Car Sales dataset and provide a complete cleaning of the data.
 4 Python Libraries: Pandas, Datetime
 5  
 ```
+---
 
-```
 Full Disclosure: My experience related to these topics mentitoned abve has been declared. I intend to continue to learn different areas of Analysis and Reporting including SQL queries, Pythhon scripting, Tableau visualizations and StoryTelling.
-```
+
