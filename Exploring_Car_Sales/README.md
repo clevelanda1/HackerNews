@@ -55,7 +55,7 @@ Access the Jupyter Notebook package within the Anaconda distribution for this as
 #### Download Dataset: 
 [Here](https://data.world/data-society/used-cars-data)
 #### Imported Libraries:
-Reader, Pandas, Datetime, Matplotlib.
+Pandas, Datetime.
 
 ## Acknowledgments
 The web sraping required for this data can be contributed from the Kaggle notebook by user [Orgesleka](https://www.kaggle.com/orgesleka).
