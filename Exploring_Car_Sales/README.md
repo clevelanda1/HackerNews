@@ -1,4 +1,7 @@
-# Used Cars Data 
+# Data Scrubbing and Observation Report - Ebay Car Listings
+
+In this folder the data will be used to find inconsistencies, remove errors and support a clean dataset for further analysis. A gradual process implemented to achieve a high level of accuracy.  
+
 
 ## Table of Contents
  * [Project Background](#project-background)
@@ -49,10 +52,9 @@ Follow the link and [Download](https://www.python.org/downloads) Python and the 
 Choose one of the two Anaconda distributions [Miniconda](http://conda.pydata.org/miniconda.html) or [Anaconda](https://www.continuum.io/downloads).
 #### Run Jupyter Notebook:
 Access the Jupyter Notebook package within the Anaconda distribution for this assignment.
-#### Download Dataset: 
-[Here](https://data.world/data-society/used-cars-data)
+#### Download [Dataset](https://data.world/data-society/used-cars-data):
 #### Imported Libraries:
-Reader, Pandas, Datetime, Matplotlib.
+Pandas, Datetime.
 
 ## Acknowledgments
 The web sraping required for this data can be contributed from the Kaggle notebook by user [Orgesleka](https://www.kaggle.com/orgesleka).

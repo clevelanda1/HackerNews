@@ -1,6 +1,6 @@
-# Defining Characteristics within the Working Model
+# Define result driven characteristics within the data provided by the online platform - Hacker News
 
-In this repository the data will be used to support and determine characteristics of a model that may further assist the community. The idea states that through the findings referenced in the project, anyone who uses this flatform can receive some valuable information that can affect the value in which they receive from others. 
+In this folder the data will be used to support and determine characteristics of a model that may further assist the community. The idea states that through the findings referenced in the project, anyone who uses this flatform can receive some valuable information that can affect the value in which they receive from others. 
 
 ## Table of Contents
  * [Project Background](#project-background)
@@ -40,8 +40,7 @@ Follow the link and [Download](https://www.python.org/downloads) Python and the 
 Choose one of the two Anaconda distributions [Miniconda](http://conda.pydata.org/miniconda.html) or [Anaconda](https://www.continuum.io/downloads).
 #### Run Jupyter Notebook:
 Access the Jupyter Notebook package within the Anaconda distribution for this assignment.
-#### Download Dataset: 
-[Here](https://www.kaggle.com/hacker-news/hacker-news-posts)
+#### Download [Dataset](https://www.kaggle.com/hacker-news/hacker-news-posts):
 #### Imported Libraries:
 Reader, Pandas, Datetime, Matplotlib.
 
