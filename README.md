@@ -25,5 +25,5 @@ Explore the Ebay Car Sales dataset and provide a complete cleansing of the data.
 ```
 ---
 
-**Full Disclosure:** My experience related to these topics mentitoned abve has been declared. I intend to continue to learn different areas of Analysis and Reporting including SQL queries, Python scripting, Tableau visualizations and StoryTelling.
+**Full Disclosure:** My experience related to these topics mentitoned abve has been declared. I intend to continue to learn different areas of Analysis and Reporting including SQL Queries, Python Scripting, Tableau Visualizations and Story Telling.
 
