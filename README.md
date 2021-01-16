@@ -14,7 +14,7 @@ Define different factors that relate to previous user' related data activity bas
 ```
 
 ## Exploring Ebay Car Sales
-Explore the Ebay Car Sales dataset and provide a complete cleaning of the data.
+Explore the Ebay Car Sales dataset and provide a complete cleansing of the data.
 
 ### Skills presented in this project: 
 ```
