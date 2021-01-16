@@ -1,5 +1,6 @@
 # Data Scrubbing and Observation Report - Ebay Car Listings
 
+In this folder the data will be used to support and determine characteristics of a model that may further assist the community. The idea states that through the findings referenced in the project, anyone who uses this flatform can receive some valuable information that can affect the value in which they receive from others. 
 
 
 ## Table of Contents
