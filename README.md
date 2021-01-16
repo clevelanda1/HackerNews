@@ -5,14 +5,13 @@ User(s) related analytics based on Hacker News dataset
 
 ### Skills presented in this project:
 ```
-* Report Writing and Organization
-* Data Analysis Python Scripting
-* Pattern and Trend Identification
-* Python Libraries: DateTime, Matplotlib 
-* 
+1 Report Writing and Organization
+2 Data Analysis Python Scripting
+3 Pattern and Trend Identification
+4 Python Libraries: DateTime, Matplotlib 
 ```
 ## Exploring Ebay Car Sales
-lskd
+lskd 
 
 ### Skills presented in this project: 
 
