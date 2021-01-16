@@ -22,7 +22,6 @@ Explore the Ebay Car Sales dataset and provide a complete cleansing of the data.
 2 Analyze for Errors and Correction Possibilities
 3 Provide Formatting and Cleaning Solutions
 4 Python Libraries: Pandas, Datetime
-5  
 ```
 ---
 
