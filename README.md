@@ -1,7 +1,7 @@
 # Python-Related-Projects
 
 ## Hacker News
-User(s) related analytics based on Hacker News dataset
+Define different factors that relate to previous user' related data activity based on the Hacker News dataset.
 
 ### Skills presented in this project:
 ```
