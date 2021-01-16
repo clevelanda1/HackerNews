@@ -1,6 +1,6 @@
 # Define result driven characteristics within the data provided by the online platform - Hacker News
 
-In this repository the data will be used to support and determine characteristics of a model that may further assist the community. The idea states that through the findings referenced in the project, anyone who uses this flatform can receive some valuable information that can affect the value in which they receive from others. 
+In this folder the data will be used to support and determine characteristics of a model that may further assist the community. The idea states that through the findings referenced in the project, anyone who uses this flatform can receive some valuable information that can affect the value in which they receive from others. 
 
 ## Table of Contents
  * [Project Background](#project-background)
