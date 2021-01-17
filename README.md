@@ -18,7 +18,7 @@ Explore the Ebay Car Sales dataset and provide a complete cleansing of the data.
 
 ### Skills presented in this project: 
 ```
-1 Sift Through Data in Multiple Forms
+1 Sift Through Data and Identify Multiple Forms to View the Data
 2 Analyze for Errors and Correction Possibilities
 3 Provide Formatting and Cleaning Solutions
 4 Python Libraries: Pandas, Datetime
