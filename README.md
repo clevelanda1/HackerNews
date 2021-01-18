@@ -25,7 +25,7 @@ Define different factors that relate to previous user' related data activity bas
 4 Object-Oriented Python
 5 Working with Dates and Times in python
 6 Provide Insights
-7 Reccomended Next Course of Action
+7 Reccomended Actions
 ```
 
 ## Ebay Car Sales
