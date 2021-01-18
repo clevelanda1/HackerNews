@@ -33,7 +33,7 @@ Explore the ebay car sales dataset and provide a complete cleansing of the data.
 
 ### Skills presented in this project: 
 ```
-1 Boolean Indexing with Numpy
+1 Boolean Indexing with Pandas
 2 Exploring Data with Pandas: Intermediate
 3 Data Cleaning: Identify Errors and Correction Possibilities
 4 Provide Formatting and Scrubbing Solutions 
