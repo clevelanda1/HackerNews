@@ -49,7 +49,13 @@ autos["gearbox"] = autos["gearbox"].replace("manuell", "Manual").replace("automa
 autos["fuel_type"] = autos["fuel_type"].replace("benzin", "Gasoline").replace("diesel", "Diesel")
 autos["unrepaired_damage"] = autos["unrepaired_damage"].replace("ja", "Yes").replace("nan", "Nan").replace("nein", "No")
 autos["vehicle_type"] = autos["vehicle_type"].replace("kleinwagen", "Mini").replace("coupe", "Coupe").replace("suv", "SUV").replace("limousine", "Limousine").replace("cabrio", "Convertible").replace("bus", "Bus").replace("kombi", "Combination").replace("andere", "Other")
-autos["abtest"] = autos["abtest"].replace("test", "Test").replace("control", "Control")
+autos["abtest"] = autos["abtest"].replace("test", "Test").replace("control", "Control") 
+autos["model"] = autos["model"].replace("2_reihe", "2 Series").replace("Andere", "Other").replace("3_reihe", "3 Series").replace("A_klasse", "A Class").replace("3er", "3s").replace("5er", "5s").replace("E_klasse", "E Class").replace("Kadett", "Cadet").replace("1er", "1s").replace("B_klasse", "B Class").replace("C_klasse", "C Class").replace("Xc_reihe", "Xc Series").replace("7er", "7s").replace("Z_reihe", "Z Series").replace("M_klasse", "M Class").replace("I_reihe", "I Series").replace("6_reihe", "6 Series").replace("5_reihe", "5 Series").replace("Rx_reihe", "Rx Series").replace("6er", "6s").replace("X_reihe", "X Series").replace("S_klasse", "S Class").replace("4_reihe", "4 Series").replace("1_reihe", "1 Series").replace("Ptcruiser", "Pt Cruiser").replace("Mx_reihe", "Mx Series").replace("Mx_reihe", "M Series").replace("Cr_reihe", "Cr Series").replace("C_reihe", "C Series").replace("V Classe", "V Class").replace("X_type", "X Type").replace("S_type", "S type").replace("X_trail", "X Trail").replace("Cx_reihe", "Cx Series").replace("Range_rover_evoque", "Range Rover Evoque").replace("G_klasse", "G Class").replace("Serie_2", "Serie 2").replace("B_max", "B Max").replace("Serie_3", "Serie 3").replace("Serie_1", "Serie 1")
+autos["brand"] = autos["brand"].replace("Mercedes_benz", "Mercedes Benz").replace("Sonstige_autos", "Sonstige").replace("Alfa_romeo", "Alfa Romeo").replace("Land_rover", "Land Rover")
+
+# Capitalize all Words
+autos["model"] = autos["model"].str.capitalize()
+autos["brand"] = autos["brand"].str.capitalize()
 
 # Remove all rows where the registration year is not in range
 autos = autos.drop(autos[(autos["registration_year"] > 2016) | (autos["registration_year"] < 1900)].index)
