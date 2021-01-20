@@ -19,7 +19,7 @@ Define different factors that relate to previous user' related data activity bas
 ### Presented in this project: 
 ```
 1 Object-Oriented Python 
-2 Working with Dates and Times in Python
+2 Working with Dates and Times
 3 Data Analysis 
 4 Report Writing and Organization
 5 Pattern and Trend Identification 
@@ -30,11 +30,11 @@ Explore the ebay car sales dataset and provide a complete cleansing of the data.
 
 ### Presented in this project:  
 ```
-1 Boolean Indexing with Pandas
-2 Exploring Data with Pandas
-3 Working with Dates and Times in Python
-4 Data Cleaning: Identify Errors and Correction Possibilities
-5 Provide Formatting and Scrubbing Solutions 
+1 Pandas Dataframe
+2 Boolean Indexing 
+3 Working with Dates and Times 
+4 Identify Errors and Correction Possibilities
+5 Formatting and Scrubbing Solutions 
 ```
 
 ---
