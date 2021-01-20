@@ -20,7 +20,7 @@ Define different factors that relate to previous user' related data activity bas
 ```
 1 Object-Oriented Python 
 2 Working with Dates and Times in Python
-3 Python Data Analysis 
+3 Data Analysis 
 4 Report Writing and Organization
 5 Pattern and Trend Identification 
 ```
