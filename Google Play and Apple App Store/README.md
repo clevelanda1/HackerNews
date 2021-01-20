@@ -1,4 +1,4 @@
-# Profitable App Profiles for the App Store and Google Play Markets
+# Profitable App Profiles for the Google Play and Apple Markets
 
 In this folder the data will be used to explore the relation between the two dataset and also the differences. After a proper comparison, the data will be thoroughly analyzed to provide some valueble insights. 
 
