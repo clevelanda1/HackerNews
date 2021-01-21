@@ -11,7 +11,7 @@ In this folder the data will be used to explore the relation between the two dat
  
  ## Project Background
 
-Provided the two sample datasets consist of a total of 17,000 apps. This project would be useful for individuals or groups who are considering creating a specific type of application and want to see the results of those types of application and how they meausures up against other apps.
+Provided the two sample datasets consist of a total of 17,000 apps. This project would be useful for individuals or groups who are considering creating a specific type of application and want to see the results of those types of application and how they can possibly meausure up against other apps in the market.
   
 ## Column Description
 
