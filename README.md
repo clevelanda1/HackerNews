@@ -39,5 +39,4 @@ Explore the ebay car sales dataset and provide a complete cleansing of the data.
 
 ---
 
-**Full Disclosure:** My experience related to these topics mentitoned above has been declared by their current state. I intend to continue to learn different areas of Data Analytics and Reporting including SQL Server, Data Intergration with SSIS, Python Scripting, Tableau Visualizations and Data Presentation.
-
+**This folder contains projects based on data cleaning, data transformation and exploratory analysis. The intention is to exhibit different areas of Python that can be used to manipulate the data before proceeding, and processing for data analytics. Python scripting will also be included in another folder, but in a more real world application. The additional repositories demonstrate ones familiarity accessing SQL Server, building data intergration packages with SSIS and creating Tableau visualizations.
