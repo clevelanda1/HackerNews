@@ -1,6 +1,6 @@
 # Profitable App Profiles for the Google Play and Apple Markets
 
-In this folder the data will be used to explore the relation between the two dataset and also the differences. After a proper comparison, the data will be thoroughly analyzed to provide some valueble insights. 
+In this folder the data will be used to explore the relationsip between the two datasets. After a proper comparison, the data will be thoroughly analyzed to provide in search of valueble insights. 
 
 ## Table of Contents
  * [Project Background](#project-background)
