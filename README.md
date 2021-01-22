@@ -29,7 +29,7 @@ Explore the ebay car sales dataset and provide a complete cleansing of the data.
 
 ### Presented in this project:  
 ```
-1 Error Identification 
+1 Data Error Identification 
 2 Data Formatting and Scrubbing
 3 Pandas Dataframe
 4 Boolean Indexing 
