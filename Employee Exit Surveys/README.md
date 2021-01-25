@@ -13,10 +13,10 @@ In this folder the data will be used to find inconsistencies, remove errors and 
  ## Project Background
 
 The data provided for this project has been supplied by the DETE and the TAFE. While cleaning the dataset there are two primary questions to keep in mind in case individual records are to be removed because of to many null values:
-
-  * Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
-  * Are younger employees resigning due to some kind of dissatisfaction? What about the older employees?
-
+  ```
+  - Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
+  - Are younger employees resigning due to some kind of dissatisfaction? What about the older employees?
+  ```
   
 ## Column Description
 
