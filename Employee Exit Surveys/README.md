@@ -20,7 +20,7 @@ The data provided for this project has been supplied by the DETE and the TAFE. W
   
 ## Column Description
 
- Please review the individual dataset and review each of the columns and read carefully for the best understanding of what is being cleaned in this assignment.
+ Please review the individual dataset and review each of the columns and read carefully for the best understanding of what is being cleaned in this assignment. All Links will be posted below.
 
 
 ## Requirements/Installation
