@@ -2,7 +2,7 @@
 
 
 
-This folder contains projects based on data cleaning, data transformation and exploratory analysis. The intention is to exhibit different areas of Python that can be used to manipulate the data before proceeding, and processing for data analytics. Python scripting is included in another folder, yet in a more Real World Application. The additional repositories demonstrate ones familiarity accessing SQL Server, building data intergration packages with SSIS and creating Tableau visualizations.
+This folder contains projects based on data cleaning, data transformation and exploratory analysis. The intention is to exhibit different areas of Python that can be used to manipulate the data before proceeding, and processing for data analytics. Python scripting is included in another folder, in a more real world application. The additional repositories demonstrate familiarity accessing SQL Server, building data intergration packages with SSIS and creating Tableau visualizations.
 
 ---
 
