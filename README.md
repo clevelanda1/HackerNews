@@ -43,5 +43,17 @@ Explore the ebay car sales dataset and provide a complete cleansing of the data.
 4 Boolean Indexing 
 5 Working with Dates and Times 
 ```
+
+### Employee Exit Surveys
+Explore the employee exit surveys dataset and provide a complete cleansing of the data.
+
+#### Presented in this project:  
+```
+1 Data Error Identification 
+2 Data Scrubbing
+3 Pandas Dataframe
+4 Vectorized String Methods 
+5 Data Transformation 
+```
 ---
 
