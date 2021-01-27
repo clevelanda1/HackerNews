@@ -1,4 +1,4 @@
-# Data Scrubbing and Observation Report - Ebay Car Sales
+#  Ebay Car Listings (German) - Data Scrubbing and Observation Report 
 
 In this folder the data will be used to find inconsistencies, remove errors and support a clean dataset for further analysis. A gradual process implemented to achieve a high level of accuracy.  
 
