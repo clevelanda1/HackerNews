@@ -1,0 +1,289 @@
+,id,cease_date,separationtype,gender,age,employment_status,position,institute_service,dissatisfied,source,time_in_service
+1,2,2010,Resignation,Male,41-45,Permanent Full-time,Teacher (including LVT),3-4,False,TAFE,Experienced: 3-6 years
+2,3,2010,Resignation,Female,56-60,Contract/casual,Teacher (including LVT),7-10,False,TAFE,Established: 7-10 years
+3,4,2010,Resignation,Male,20 or younger,Temporary Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+4,5,2010,Resignation,Male,46-50,Permanent Full-time,Teacher (including LVT),3-4,False,TAFE,Experienced: 3-6 years
+5,6,2009,Resignation,Female,36-40,Temporary Full-time,Tutor,3-4,False,TAFE,Experienced: 3-6 years
+6,7,2010,Resignation,Female,21-25,Permanent Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+7,8,2010,Resignation,Female,41-45,Temporary Part-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+8,9,2010,Resignation,Female,31-35,Temporary Full-time,Administration (AO),11-20,False,TAFE,Veteran: 11+ years
+9,10,2010,Resignation,Female,31-35,Permanent Part-time,Teacher (including LVT),7-10,True,TAFE,Established: 7-10 years
+10,11,2010,Resignation,Female,46-50,Permanent Part-time,Technical Officer (TO),11-20,False,TAFE,Veteran: 11+ years
+12,13,2010,Resignation,Female,31-35,Permanent Full-time,Administration (AO),7-10,False,TAFE,Established: 7-10 years
+17,18,2010,Resignation,Male,26-30,Temporary Full-time,Administration (AO),5-6,False,TAFE,Experienced: 3-6 years
+18,19,2010,Resignation,Female,26-30,Contract/casual,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+19,20,2010,Resignation,Female,31-35,Permanent Part-time,Teacher (including LVT),7-10,False,TAFE,Established: 7-10 years
+21,22,2010,Resignation,Male,56-60,Temporary Full-time,Administration (AO),More than 20 years,False,TAFE,Veteran: 11+ years
+22,23,2010,Resignation,Female,31-35,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+23,24,2010,Resignation,Female,46-50,Temporary Part-time,Professional Officer (PO),Less than 1 year,False,TAFE,New: 0-2 years
+27,28,2010,Resignation,Female,26-30,Temporary Part-time,Administration (AO),Less than 1 year,True,TAFE,New: 0-2 years
+28,29,2010,Resignation,Female,36-40,Permanent Full-time,Teacher (including LVT),11-20,False,TAFE,Veteran: 11+ years
+29,30,2010,Resignation,Male,31-35,Permanent Full-time,Teacher (including LVT),3-4,False,TAFE,Experienced: 3-6 years
+30,31,2010,Resignation,Male,51-55,Permanent Full-time,Teacher (including LVT),11-20,False,TAFE,Veteran: 11+ years
+31,32,2010,Resignation,Female,56-60,Permanent Part-time,Teacher (including LVT),More than 20 years,False,TAFE,Veteran: 11+ years
+32,33,2010,Resignation,Male,31-35,Permanent Full-time,Teacher (including LVT),Less than 1 year,True,TAFE,New: 0-2 years
+33,34,2010,Resignation,Male,56-60,Permanent Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+35,36,2010,Resignation,Female,41-45,Permanent Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+38,39,2010,Resignation,Female,31-35,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+39,40,2010,Resignation,Female,26-30,Temporary Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+40,41,2010,Resignation,Female,56-60,Permanent Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+41,42,2009,Resignation,Male,51-55,Permanent Full-time,Operational (OO),3-4,False,TAFE,Experienced: 3-6 years
+42,43,2010,Resignation,Male,46-50,Permanent Full-time,Operational (OO),11-20,True,TAFE,Veteran: 11+ years
+43,44,2010,Resignation,Female,21-25,Permanent Full-time,Administration (AO),Less than 1 year,True,TAFE,New: 0-2 years
+44,45,2010,Resignation,Female,31-35,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+45,46,2010,Resignation,Male,51-55,Permanent Full-time,Teacher (including LVT),3-4,False,TAFE,Experienced: 3-6 years
+46,47,2010,Resignation,Female,36-40,Permanent Full-time,Professional Officer (PO),7-10,True,TAFE,Established: 7-10 years
+47,48,2010,Resignation,Female,51-55,Permanent Full-time,Administration (AO),5-6,False,TAFE,Experienced: 3-6 years
+48,49,2010,Resignation,Female,20 or younger,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+49,50,2010,Resignation,Male,41-45,Contract/casual,Teacher (including LVT),Less than 1 year,False,TAFE,New: 0-2 years
+50,51,2010,Resignation,Female,46-50,Permanent Full-time,Administration (AO),7-10,False,TAFE,Established: 7-10 years
+51,52,2010,Resignation,Male,41-45,Temporary Part-time,Teacher (including LVT),5-6,False,TAFE,Experienced: 3-6 years
+52,53,2010,Resignation,Female,41-45,Permanent Full-time,Administration (AO),5-6,False,TAFE,Experienced: 3-6 years
+53,54,2010,Resignation,Female,56-60,Contract/casual,Teacher (including LVT),3-4,False,TAFE,Experienced: 3-6 years
+54,55,2010,Resignation,Female,26-30,Permanent Full-time,Administration (AO),7-10,False,TAFE,Established: 7-10 years
+55,56,2010,Resignation,Female,41-45,Permanent Part-time,Administration (AO),3-4,True,TAFE,Experienced: 3-6 years
+57,58,2010,Resignation,Female,31-35,Contract/casual,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+58,59,2010,Resignation,Female,41-45,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+60,61,2010,Resignation,Female,31-35,Permanent Full-time,Administration (AO),11-20,False,TAFE,Veteran: 11+ years
+63,64,2010,Resignation,Female,31-35,Temporary Part-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+65,66,2010,Resignation,Male,21-25,Contract/casual,Administration (AO),1-2,False,TAFE,New: 0-2 years
+66,67,2011,Resignation,Female,46-50,Permanent Full-time,Professional Officer (PO),5-6,True,TAFE,Experienced: 3-6 years
+69,70,2010,Resignation,Female,36-40,Temporary Full-time,Teacher (including LVT),Less than 1 year,True,TAFE,New: 0-2 years
+71,72,2010,Resignation,Male,41-45,Permanent Full-time,Professional Officer (PO),3-4,False,TAFE,Experienced: 3-6 years
+72,73,2010,Resignation,Male,36-40,Contract/casual,Executive (SES/SO),Less than 1 year,False,TAFE,New: 0-2 years
+73,74,2011,Resignation,Female,26-30,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+75,76,2011,Resignation,Female,26-30,Permanent Full-time,Administration (AO),7-10,False,TAFE,Established: 7-10 years
+76,77,2011,Resignation,Male,56-60,Permanent Full-time,Teacher (including LVT),11-20,False,TAFE,Veteran: 11+ years
+77,78,2011,Resignation,Male,41-45,Temporary Full-time,Operational (OO),11-20,False,TAFE,Veteran: 11+ years
+78,79,2011,Resignation,Female,31-35,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+79,80,2011,Resignation,Male,46-50,Permanent Full-time,Teacher (including LVT),3-4,False,TAFE,Experienced: 3-6 years
+80,81,2011,Resignation,Female,26-30,Permanent Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+81,82,2011,Resignation,Male,51-55,Temporary Full-time,Teacher (including LVT),Less than 1 year,False,TAFE,New: 0-2 years
+82,83,2011,Resignation,Male,51-55,Temporary Full-time,Teacher (including LVT),Less than 1 year,False,TAFE,New: 0-2 years
+83,84,2011,Resignation,Male,51-55,Temporary Full-time,Teacher (including LVT),Less than 1 year,False,TAFE,New: 0-2 years
+84,85,2011,Resignation,Female,46-50,Contract/casual,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+85,86,2011,Resignation,Female,21-25,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+87,88,2011,Resignation,Female,41-45,Temporary Part-time,Operational (OO),1-2,False,TAFE,New: 0-2 years
+88,89,2011,Resignation,Female,51-55,Temporary Part-time,Operational (OO),Less than 1 year,False,TAFE,New: 0-2 years
+89,90,2011,Resignation,Female,36-40,Temporary Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+90,91,2011,Resignation,Female,51-55,Temporary Full-time,Teacher (including LVT),3-4,True,TAFE,Experienced: 3-6 years
+92,93,2011,Resignation,Male,46-50,Permanent Full-time,Teacher (including LVT),5-6,False,TAFE,Experienced: 3-6 years
+93,94,2011,Resignation,Male,21-25,Permanent Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+95,96,2011,Resignation,Male,31-35,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+96,97,2011,Resignation,Female,26-30,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+97,98,2011,Resignation,Female,51-55,Permanent Full-time,Teacher (including LVT),Less than 1 year,False,TAFE,New: 0-2 years
+98,99,2011,Resignation,Female,36-40,Permanent Part-time,Teacher (including LVT),3-4,False,TAFE,Experienced: 3-6 years
+99,100,2011,Resignation,Male,56-60,Contract/casual,Workplace Training Officer,Less than 1 year,False,TAFE,New: 0-2 years
+100,101,2011,Resignation,Female,21-25,Temporary Part-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+101,102,2011,Resignation,Male,20 or younger,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+102,103,2011,Resignation,Female,21-25,Contract/casual,Technical Officer (TO),Less than 1 year,True,TAFE,New: 0-2 years
+103,104,2011,Resignation,Female,41-45,Temporary Part-time,Teacher (including LVT),Less than 1 year,False,TAFE,New: 0-2 years
+104,105,2011,Resignation,Female,20 or younger,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+105,106,2011,Resignation,Female,51-55,Permanent Part-time,Teacher (including LVT),More than 20 years,True,TAFE,Veteran: 11+ years
+106,107,2011,Resignation,Female,41-45,Contract/casual,Technical Officer (TO),5-6,False,TAFE,Experienced: 3-6 years
+107,108,2011,Resignation,Female,51-55,Temporary Part-time,Teacher (including LVT),Less than 1 year,False,TAFE,New: 0-2 years
+109,110,2011,Resignation,Female,46-50,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+110,111,2011,Resignation,Female,21-25,Permanent Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+111,112,2011,Resignation,Male,21-25,Permanent Part-time,Operational (OO),1-2,False,TAFE,New: 0-2 years
+112,113,2011,Resignation,Female,21-25,Permanent Part-time,Administration (AO),5-6,False,TAFE,Experienced: 3-6 years
+113,114,2011,Resignation,Female,31-35,Temporary Part-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+114,115,2011,Resignation,Female,21-25,Permanent Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+115,116,2011,Resignation,Male,41-45,Permanent Full-time,Operational (OO),3-4,True,TAFE,Experienced: 3-6 years
+116,117,2011,Resignation,Female,46-50,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+117,118,2011,Resignation,Female,26-30,Temporary Full-time,Teacher (including LVT),1-2,True,TAFE,New: 0-2 years
+118,119,2011,Resignation,Male,46-50,Temporary Full-time,Executive (SES/SO),1-2,True,TAFE,New: 0-2 years
+119,120,2011,Resignation,Male,46-50,Permanent Full-time,Teacher (including LVT),1-2,False,TAFE,New: 0-2 years
+120,121,2011,Resignation,Female,46-50,Contract/casual,Administration (AO),5-6,False,TAFE,Experienced: 3-6 years
+121,122,2011,Resignation,Female,41-45,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+122,123,2011,Resignation,Female,36-40,Permanent Full-time,Teacher (including LVT),Less than 1 year,False,TAFE,New: 0-2 years
+123,124,2011,Resignation,Male,36-40,Permanent Full-time,Administration (AO),5-6,False,TAFE,Experienced: 3-6 years
+124,125,2011,Resignation,Male,26-30,Temporary Full-time,Operational (OO),Less than 1 year,False,TAFE,New: 0-2 years
+125,126,2011,Resignation,Male,41-45,Contract/casual,Teacher (including LVT),1-2,False,TAFE,New: 0-2 years
+126,127,2011,Resignation,Female,41-45,Contract/casual,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+127,128,2011,Resignation,Female,21-25,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+128,129,2011,Resignation,Female,41-45,Contract/casual,Teacher (including LVT),Less than 1 year,False,TAFE,New: 0-2 years
+130,131,2011,Resignation,Female,31-35,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+131,132,2011,Resignation,Female,21-25,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+132,133,2011,Resignation,Male,41-45,Temporary Full-time,Technical Officer (TO),1-2,False,TAFE,New: 0-2 years
+133,134,2011,Resignation,Male,36-40,Temporary Full-time,Executive (SES/SO),Less than 1 year,False,TAFE,New: 0-2 years
+134,135,2011,Resignation,Female,21-25,Contract/casual,Administration (AO),1-2,False,TAFE,New: 0-2 years
+135,136,2011,Resignation,Female,26-30,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+136,137,2011,Resignation,Female,41-45,Temporary Full-time,Teacher (including LVT),11-20,True,TAFE,Veteran: 11+ years
+137,138,2011,Resignation,Female,46-50,Permanent Full-time,Administration (AO),5-6,False,TAFE,Experienced: 3-6 years
+138,139,2011,Resignation,Female,26-30,Permanent Full-time,Professional Officer (PO),3-4,False,TAFE,Experienced: 3-6 years
+139,140,2011,Resignation,Female,51-55,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+140,141,2011,Resignation,Male,31-35,Contract/casual,Teacher (including LVT),1-2,False,TAFE,New: 0-2 years
+141,142,2011,Resignation,Female,20 or younger,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+143,144,2011,Resignation,Male,21-25,Permanent Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+144,145,2011,Resignation,Female,51-55,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+145,146,2011,Resignation,Female,36-40,Temporary Full-time,Administration (AO),1-2,True,TAFE,New: 0-2 years
+146,147,2011,Resignation,Female,41-45,Permanent Part-time,Professional Officer (PO),11-20,False,TAFE,Veteran: 11+ years
+147,148,2011,Resignation,Female,51-55,Temporary Full-time,Teacher (including LVT),Less than 1 year,False,TAFE,New: 0-2 years
+148,149,2011,Resignation,Female,21-25,Permanent Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+149,150,2011,Resignation,Female,36-40,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+151,152,2011,Resignation,Female,41-45,Temporary Part-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+152,153,2011,Resignation,Female,20 or younger,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+153,154,2011,Resignation,Female,21-25,Temporary Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+154,155,2011,Resignation,Female,51-55,Temporary Part-time,Professional Officer (PO),1-2,False,TAFE,New: 0-2 years
+156,157,2011,Resignation,Female,36-40,Permanent Part-time,Workplace Training Officer,5-6,False,TAFE,Experienced: 3-6 years
+157,158,2011,Resignation,Male,36-40,Permanent Full-time,Professional Officer (PO),3-4,False,TAFE,Experienced: 3-6 years
+158,159,2011,Resignation,Female,41-45,Permanent Full-time,Operational (OO),1-2,False,TAFE,New: 0-2 years
+159,160,2012,Resignation,Male,46-50,Permanent Full-time,Administration (AO),11-20,False,TAFE,Veteran: 11+ years
+160,161,2011,Resignation,Male,26-30,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+162,163,2011,Resignation,Female,56-60,Permanent Part-time,Professional Officer (PO),More than 20 years,False,TAFE,Veteran: 11+ years
+164,165,2011,Resignation,Female,56-60,Permanent Full-time,Tutor,5-6,False,TAFE,Experienced: 3-6 years
+166,167,2011,Resignation,Male,46-50,Temporary Full-time,Teacher (including LVT),Less than 1 year,False,TAFE,New: 0-2 years
+167,168,2011,Resignation,Male,46-50,Temporary Full-time,Tutor,Less than 1 year,False,TAFE,New: 0-2 years
+168,169,2011,Resignation,Male,51-55,Permanent Full-time,Teacher (including LVT),More than 20 years,True,TAFE,Veteran: 11+ years
+169,170,2011,Resignation,Male,56-60,Permanent Full-time,Teacher (including LVT),More than 20 years,False,TAFE,Veteran: 11+ years
+170,171,2011,Resignation,Female,56-60,Permanent Full-time,Teacher (including LVT),11-20,False,TAFE,Veteran: 11+ years
+171,172,2011,Resignation,Female,46-50,Permanent Full-time,Executive (SES/SO),5-6,True,TAFE,Experienced: 3-6 years
+172,173,2011,Resignation,Male,51-55,Permanent Full-time,Teacher (including LVT),More than 20 years,True,TAFE,Veteran: 11+ years
+173,174,2011,Resignation,Male,51-55,Permanent Full-time,Teacher (including LVT),11-20,False,TAFE,Veteran: 11+ years
+174,175,2011,Resignation,Female,56-60,Permanent Part-time,Administration (AO),More than 20 years,True,TAFE,Veteran: 11+ years
+175,176,2011,Resignation,Female,56-60,Permanent Part-time,Professional Officer (PO),11-20,False,TAFE,Veteran: 11+ years
+176,177,2011,Resignation,Female,56-60,Permanent Full-time,Administration (AO),11-20,False,TAFE,Veteran: 11+ years
+177,178,2011,Resignation,Female,21-25,Permanent Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+178,179,2011,Resignation,Female,51-55,Contract/casual,Teacher (including LVT),3-4,False,TAFE,Experienced: 3-6 years
+179,180,2011,Resignation,Female,31-35,Temporary Part-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+180,181,2011,Resignation,Male,51-55,Permanent Full-time,Teacher (including LVT),More than 20 years,True,TAFE,Veteran: 11+ years
+181,182,2011,Resignation,Female,26-30,Temporary Full-time,Professional Officer (PO),Less than 1 year,False,TAFE,New: 0-2 years
+182,183,2011,Resignation,Female,46-50,Temporary Part-time,Teacher (including LVT),1-2,False,TAFE,New: 0-2 years
+183,184,2011,Resignation,Female,51-55,Contract/casual,Teacher (including LVT),Less than 1 year,False,TAFE,New: 0-2 years
+185,186,2011,Resignation,Female,46-50,Temporary Part-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+186,187,2011,Resignation,Female,41-45,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+187,188,2011,Resignation,Female,41-45,Temporary Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+188,189,2011,Resignation,Female,41-45,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+189,190,2012,Resignation,Male,41-45,Permanent Full-time,Teacher (including LVT),3-4,True,TAFE,Experienced: 3-6 years
+190,191,2012,Resignation,Female,36-40,Temporary Full-time,Administration (AO),5-6,False,TAFE,Experienced: 3-6 years
+191,192,2012,Resignation,Female,56-60,Permanent Full-time,Administration (AO),11-20,False,TAFE,Veteran: 11+ years
+192,193,2012,Resignation,Female,31-35,Permanent Full-time,Teacher (including LVT),1-2,True,TAFE,New: 0-2 years
+193,194,2012,Resignation,Female,31-35,Temporary Part-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+194,195,2012,Resignation,Male,36-40,Permanent Full-time,Teacher (including LVT),7-10,False,TAFE,Established: 7-10 years
+195,196,2012,Resignation,Male,41-45,Temporary Full-time,Teacher (including LVT),1-2,False,TAFE,New: 0-2 years
+196,197,2012,Resignation,Female,26-30,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+197,198,2012,Resignation,Male,56-60,Permanent Full-time,Teacher (including LVT),11-20,True,TAFE,Veteran: 11+ years
+198,199,2012,Resignation,Female,51-55,Temporary Full-time,Teacher (including LVT),1-2,False,TAFE,New: 0-2 years
+199,200,2012,Resignation,Male,51-55,Permanent Full-time,Workplace Training Officer,11-20,False,TAFE,Veteran: 11+ years
+200,201,2012,Resignation,Male,26-30,Permanent Full-time,Administration (AO),7-10,False,TAFE,Established: 7-10 years
+201,202,2012,Resignation,Female,31-35,Temporary Full-time,Workplace Training Officer,Less than 1 year,False,TAFE,New: 0-2 years
+203,204,2012,Resignation,Female,41-45,Permanent Full-time,Professional Officer (PO),11-20,False,TAFE,Veteran: 11+ years
+204,205,2012,Resignation,Female,31-35,Temporary Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+205,206,2012,Resignation,Female,26-30,Permanent Full-time,Administration (AO),5-6,True,TAFE,Experienced: 3-6 years
+206,207,2012,Resignation,Female,51-55,Contract/casual,Teacher (including LVT),1-2,False,TAFE,New: 0-2 years
+207,208,2012,Resignation,Male,36-40,Permanent Full-time,Teacher (including LVT),11-20,False,TAFE,Veteran: 11+ years
+209,210,2012,Resignation,Female,20 or younger,Permanent Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+210,211,2012,Resignation,Female,21-25,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+211,212,2012,Resignation,Female,26-30,Temporary Full-time,Administration (AO),7-10,False,TAFE,Established: 7-10 years
+213,214,2012,Resignation,Female,26-30,Permanent Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+214,215,2011,Resignation,Male,36-40,Permanent Full-time,Teacher (including LVT),3-4,True,TAFE,Experienced: 3-6 years
+215,216,2011,Resignation,Male,31-35,Permanent Full-time,Teacher (including LVT),5-6,False,TAFE,Experienced: 3-6 years
+216,217,2012,Resignation,Female,56-60,Permanent Full-time,Workplace Training Officer,1-2,False,TAFE,New: 0-2 years
+217,218,2012,Resignation,Male,21-25,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+218,219,2012,Resignation,Male,41-45,Temporary Full-time,Administration (AO),1-2,True,TAFE,New: 0-2 years
+219,220,2012,Resignation,Female,31-35,Permanent Full-time,Administration (AO),1-2,True,TAFE,New: 0-2 years
+220,221,2012,Resignation,Male,56-60,Permanent Full-time,Teacher (including LVT),More than 20 years,False,TAFE,Veteran: 11+ years
+221,222,2012,Resignation,Female,46-50,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+222,223,2012,Resignation,Female,51-55,Temporary Full-time,Teacher (including LVT),Less than 1 year,False,TAFE,New: 0-2 years
+223,224,2012,Resignation,Female,36-40,Permanent Full-time,Administration (AO),5-6,False,TAFE,Experienced: 3-6 years
+224,225,2012,Resignation,Female,31-35,Contract/casual,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+225,226,2012,Resignation,Female,46-50,Temporary Part-time,Professional Officer (PO),Less than 1 year,False,TAFE,New: 0-2 years
+226,227,2012,Resignation,Male,46-50,Permanent Full-time,Teacher (including LVT),11-20,False,TAFE,Veteran: 11+ years
+227,228,2012,Resignation,Male,36-40,Temporary Full-time,Teacher (including LVT),Less than 1 year,True,TAFE,New: 0-2 years
+228,229,2012,Resignation,Male,21-25,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+229,230,2012,Resignation,Female,36-40,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+230,231,2012,Resignation,Female,21-25,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+231,232,2012,Resignation,Female,51-55,Permanent Part-time,Teacher (including LVT),5-6,True,TAFE,Experienced: 3-6 years
+233,234,2012,Resignation,Female,21-25,Permanent Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+234,235,2012,Resignation,Female,41-45,Temporary Full-time,Administration (AO),11-20,False,TAFE,Veteran: 11+ years
+235,236,2012,Resignation,Male,31-35,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+236,237,2012,Resignation,Female,41-45,Permanent Full-time,Administration (AO),5-6,True,TAFE,Experienced: 3-6 years
+237,238,2012,Resignation,Female,21-25,Contract/casual,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+238,239,2012,Resignation,Female,21-25,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+239,240,2012,Resignation,Male,56-60,Permanent Part-time,Teacher (including LVT),1-2,True,TAFE,New: 0-2 years
+240,241,2012,Resignation,Female,46-50,Temporary Full-time,Teacher (including LVT),1-2,True,TAFE,New: 0-2 years
+241,242,2012,Resignation,Male,26-30,Temporary Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+242,243,2012,Resignation,Female,46-50,Permanent Full-time,Administration (AO),7-10,False,TAFE,Established: 7-10 years
+244,245,2012,Resignation,Male,41-45,Temporary Full-time,Teacher (including LVT),Less than 1 year,False,TAFE,New: 0-2 years
+246,247,2012,Resignation,Female,21-25,Permanent Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+248,249,2012,Resignation,Female,26-30,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+249,250,2012,Resignation,Male,36-40,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+250,251,2012,Resignation,Female,21-25,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+252,253,2012,Resignation,Male,21-25,Contract/casual,Administration (AO),1-2,False,TAFE,New: 0-2 years
+253,254,2013,Resignation,Female,31-35,Permanent Part-time,Teacher (including LVT),3-4,False,TAFE,Experienced: 3-6 years
+254,255,2012,Resignation,Female,20 or younger,Temporary Full-time,Administration (AO),3-4,True,TAFE,Experienced: 3-6 years
+255,256,2012,Resignation,Male,51-55,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+256,257,2012,Resignation,Male,56-60,Temporary Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+257,258,2012,Resignation,Female,26-30,Permanent Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+258,259,2012,Resignation,Female,56-60,Temporary Part-time,Teacher (including LVT),3-4,False,TAFE,Experienced: 3-6 years
+259,260,2012,Resignation,Female,36-40,Temporary Part-time,Administration (AO),11-20,False,TAFE,Veteran: 11+ years
+260,261,2012,Resignation,Female,41-45,Temporary Part-time,Teacher (including LVT),1-2,False,TAFE,New: 0-2 years
+261,262,2012,Resignation,Male,21-25,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+262,263,2012,Resignation,Male,46-50,Temporary Full-time,Operational (OO),Less than 1 year,False,TAFE,New: 0-2 years
+263,264,2012,Resignation,Female,56-60,Permanent Part-time,Professional Officer (PO),5-6,False,TAFE,Experienced: 3-6 years
+264,265,2012,Resignation,Male,51-55,Permanent Full-time,Administration (AO),7-10,False,TAFE,Established: 7-10 years
+265,266,2012,Resignation,Male,36-40,Permanent Full-time,Teacher (including LVT),7-10,False,TAFE,Established: 7-10 years
+266,267,2012,Resignation,Female,31-35,Temporary Full-time,Professional Officer (PO),Less than 1 year,False,TAFE,New: 0-2 years
+267,268,2012,Resignation,Female,36-40,Permanent Full-time,Administration (AO),7-10,False,TAFE,Established: 7-10 years
+268,269,2012,Resignation,Female,36-40,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+269,270,2012,Resignation,Female,26-30,Temporary Part-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+271,272,2012,Resignation,Female,31-35,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+272,273,2012,Resignation,Female,46-50,Permanent Full-time,Teacher (including LVT),5-6,False,TAFE,Experienced: 3-6 years
+273,274,2012,Resignation,Male,31-35,Temporary Full-time,Teacher (including LVT),3-4,True,TAFE,Experienced: 3-6 years
+274,275,2012,Resignation,Female,56-60,Temporary Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+275,276,2013,Resignation,Male,36-40,Permanent Full-time,Teacher (including LVT),7-10,False,TAFE,Established: 7-10 years
+276,277,2012,Resignation,Male,46-50,Permanent Full-time,Teacher (including LVT),7-10,False,TAFE,Established: 7-10 years
+277,278,2012,Resignation,Male,41-45,Temporary Full-time,Teacher (including LVT),1-2,False,TAFE,New: 0-2 years
+278,279,2012,Resignation,Female,21-25,Temporary Full-time,Administration (AO),3-4,True,TAFE,Experienced: 3-6 years
+279,280,2012,Resignation,Female,31-35,Temporary Part-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+280,281,2013,Resignation,Male,41-45,Temporary Full-time,Teacher (including LVT),1-2,False,TAFE,New: 0-2 years
+281,282,2012,Resignation,Male,51-55,Permanent Part-time,Teacher (including LVT),3-4,False,TAFE,Experienced: 3-6 years
+282,283,2012,Resignation,Female,51-55,Permanent Full-time,Teacher (including LVT),7-10,False,TAFE,Established: 7-10 years
+283,284,2012,Resignation,Female,21-25,Contract/casual,Administration (AO),3-4,True,TAFE,Experienced: 3-6 years
+284,285,2012,Resignation,Female,46-50,Temporary Part-time,Workplace Training Officer,1-2,False,TAFE,New: 0-2 years
+286,287,2012,Resignation,Male,36-40,Permanent Full-time,Teacher (including LVT),5-6,False,TAFE,Experienced: 3-6 years
+287,288,2013,Resignation,Female,46-50,Permanent Full-time,Administration (AO),7-10,False,TAFE,Established: 7-10 years
+289,290,2013,Resignation,Female,41-45,Contract/casual,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+290,291,2012,Resignation,Male,41-45,Permanent Full-time,Teacher (including LVT),5-6,True,TAFE,Experienced: 3-6 years
+292,293,2013,Resignation,Female,56-60,Permanent Full-time,Teacher (including LVT),5-6,False,TAFE,Experienced: 3-6 years
+293,294,2013,Resignation,Female,41-45,Permanent Part-time,Teacher (including LVT),3-4,False,TAFE,Experienced: 3-6 years
+294,295,2013,Resignation,Female,36-40,Temporary Full-time,Teacher (including LVT),5-6,False,TAFE,Experienced: 3-6 years
+295,296,2013,Resignation,Male,31-35,Permanent Full-time,Teacher (including LVT),3-4,False,TAFE,Experienced: 3-6 years
+296,297,2013,Resignation,Female,46-50,Temporary Full-time,Teacher (including LVT),5-6,False,TAFE,Experienced: 3-6 years
+297,298,2013,Resignation,Male,46-50,Temporary Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+298,299,2013,Resignation,Female,21-25,Temporary Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+299,300,2013,Resignation,Female,56-60,Permanent Part-time,Teacher (including LVT),11-20,True,TAFE,Veteran: 11+ years
+300,301,2013,Resignation,Male,51-55,Permanent Full-time,Teacher (including LVT),1-2,False,TAFE,New: 0-2 years
+301,302,2013,Resignation,Female,26-30,Contract/casual,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+302,303,2013,Resignation,Male,20 or younger,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+303,304,2012,Resignation,Male,46-50,Permanent Full-time,Teacher (including LVT),7-10,True,TAFE,Established: 7-10 years
+304,305,2013,Resignation,Female,46-50,Temporary Full-time,Administration (AO),5-6,False,TAFE,Experienced: 3-6 years
+305,306,2013,Resignation,Male,51-55,Permanent Full-time,Teacher (including LVT),7-10,False,TAFE,Established: 7-10 years
+306,307,2013,Resignation,Male,51-55,Temporary Full-time,Teacher (including LVT),3-4,False,TAFE,Experienced: 3-6 years
+307,308,2013,Resignation,Male,36-40,Temporary Full-time,Teacher (including LVT),1-2,False,TAFE,New: 0-2 years
+308,309,2013,Resignation,Female,26-30,Temporary Part-time,Teacher (including LVT),Less than 1 year,False,TAFE,New: 0-2 years
+309,310,2013,Resignation,Female,51-55,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+310,311,2013,Resignation,Female,46-50,Temporary Part-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+311,312,2013,Resignation,Female,41-45,Permanent Part-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+312,313,2013,Resignation,Female,46-50,Permanent Full-time,Administration (AO),5-6,False,TAFE,Experienced: 3-6 years
+315,316,2013,Resignation,Female,26-30,Temporary Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+317,318,2013,Resignation,Female,46-50,Temporary Full-time,Teacher (including LVT),Less than 1 year,False,TAFE,New: 0-2 years
+318,319,2013,Resignation,Male,51-55,Temporary Full-time,Teacher (including LVT),Less than 1 year,True,TAFE,New: 0-2 years
+319,320,2013,Resignation,Female,41-45,Contract/casual,Administration (AO),1-2,False,TAFE,New: 0-2 years
+320,321,2013,Resignation,Female,36-40,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+321,322,2013,Resignation,Male,51-55,Permanent Full-time,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+322,323,2013,Resignation,Female,56-60,Temporary Part-time,Operational (OO),1-2,False,TAFE,New: 0-2 years
+323,324,2013,Resignation,Female,26-30,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+324,325,2013,Resignation,Female,26-30,Permanent Part-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+325,326,2013,Resignation,Female,41-45,Temporary Full-time,Administration (AO),Less than 1 year,False,TAFE,New: 0-2 years
+326,327,2013,Resignation,Male,41-45,Contract/casual,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years
+327,328,2013,Resignation,Female,26-30,Temporary Full-time,Technical Officer (TO),1-2,True,TAFE,New: 0-2 years
+328,329,2013,Resignation,Female,41-45,Temporary Full-time,Administration (AO),5-6,False,TAFE,Experienced: 3-6 years
+329,330,2013,Resignation,Female,46-50,Permanent Part-time,Professional Officer (PO),5-6,False,TAFE,Experienced: 3-6 years
+330,331,2013,Resignation,Male,41-45,Permanent Full-time,Teacher (including LVT),Less than 1 year,False,TAFE,New: 0-2 years
+332,333,2013,Resignation,Female,56-60,Permanent Part-time,Operational (OO),3-4,False,TAFE,Experienced: 3-6 years
+333,334,2013,Resignation,Female,26-30,Temporary Full-time,Administration (AO),1-2,False,TAFE,New: 0-2 years
+335,336,2013,Resignation,Male,21-25,Temporary Full-time,Operational (OO),5-6,False,TAFE,Experienced: 3-6 years
+336,337,2013,Resignation,Male,51-55,Temporary Full-time,Teacher (including LVT),1-2,False,TAFE,New: 0-2 years
+338,339,2013,Resignation,Female,51-55,Permanent Full-time,Teacher (including LVT),5-6,False,TAFE,Experienced: 3-6 years
+339,340,2013,Resignation,Female,26-30,Contract/casual,Administration (AO),3-4,False,TAFE,Experienced: 3-6 years

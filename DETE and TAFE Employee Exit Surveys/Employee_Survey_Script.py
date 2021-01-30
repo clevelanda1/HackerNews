@@ -60,9 +60,6 @@ dete_resignation = dete_resignation.drop(dete_resignation[dete_resignation['dete
 # Create an identical column 'institute service' for the (DETE) dataset.
 dete_resignation['institute_service'] = dete_resignation['cease_date'].astype(int) - dete_resignation['dete_start_date'].astype(int)
 
-#rint(dete_resignation['institute_service'].unique())
-#rint(tafe_resignation['institute_service'].unique())
-
 
 # Convert values in corresponding dissatisfaction columns to true, false or a null value. 
 tafe_resignation.at[tafe_resignation['contributing factors. dissatisfaction'] == '-', 'contributing factors. dissatisfaction'] = 'False'
@@ -81,9 +78,6 @@ tafe_resignation_up['dissatisfied'] = tafe_resignation_up[['contributing factors
 dete_resignation_up = dete_resignation.copy()
 dete_resignation_up['dissatisfied'] = dete_resignation_up[['job_dissatisfaction', 'dissatisfaction_with_the_department', 'physical_work_environment', 'lack_of_recognition', 'lack_of_job_security', 'work_location', 'employment_conditions', 'work_life_balance', 'workload']].any(axis = 1, skipna = False)
 
-#rint(tafe_resignation_up['dissatisfied'].value_counts())
-#rint(dete_resignation_up['dissatisfied'].value_counts())
-
 
 # Add a column to the two dataframes to distinguish the data between the two
 tafe_resignation_up['source'] = 'TAFE'
@@ -92,7 +86,6 @@ dete_resignation_up['source'] = 'DETE'
 
 # Combine the two datasets and remove any columns with more than 500 null values.
 combined_resignation = pd.concat([tafe_resignation_up, dete_resignation_up], axis = 0, ignore_index = True).dropna(thresh = 500, axis = 1)
-#(combined_resignation)
 
 
 # Extract the differnt data types in the 'institute_service' column and establish a single format of reference.
@@ -118,9 +111,6 @@ def extract_value(index):
 
 combined_resignation['time_in_service'] = combined_resignation['institute_service'].apply(extract_value).astype(str).str.split('-').str[-1].replace('nan', "00")
 combined_resignation['time_in_service'] = combined_resignation['time_in_service'].apply(i_service_map)                                             
-   
-#rint(combined_resignation['time_in_service'])
-#rint(combined_resignation['time_in_service'].unique())
 
 
 # Reassign a new 'id' number for each number to the same format.
@@ -139,50 +129,24 @@ combined_resignation = combined_resignation.drop(combined_resignation[combined_r
 # Format the boolean values to match one another.
 combined_resignation[combined_resignation['dissatisfied'] == True] = 'True'
 combined_resignation[combined_resignation['dissatisfied'] == False] = 'False'
-print(combined_resignation['dissatisfied'].unique())
 
 
+# Replace missing values with the boolean value, 'False' (Most Frequent)
+combined_resignation['dissatisfied'] = combined_resignation['dissatisfied'].replace(np.nan, 'False')
 
 
+# Remove any additional records with outstanding null values in each column.
+combined_resignation = combined_resignation.dropna(axis = 0)
 
 
-# My special code that tells me what the spacing inside the data looks like
-#rint(tafe_survey.columns.str.split("   ")[10])
+# Remove any additional records that are inherently incorrect.
+error_rows_t = combined_resignation[combined_resignation['id'] == 'True'].index
+error_rows_f = combined_resignation[combined_resignation['id'] == 'False'].index
+combined_resignation.drop(error_rows_t, inplace = True)
+combined_resignation.drop(error_rows_f, inplace = True)
 
 
+# Export dataframe to a csv file.
+tafe_dete_survey = combined_resignation.to_csv('Tafe_Dete_Clean.csv', index = True)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#TAFE:
-# Separate tafe records into Topics and Questions
-# Prepare to remove all of the Contributing Factors, Induction Info and Main Factor Columns (too many null values)
-# Adjust Column headers
-# Adjust work area columns to either corporate or teaching
-# Remove 'TAFE' from the 'Institute' columns
-# Address Id columns, reassign values
-# Convert 'Agree' to A, 'Disagree' to D ... and so on
-# Compute average ages in dete dataset
-# Remove additional text from 'Classification' column
-# Define one standard for 'Length of Service Overall'
-# Determine the Columns with same data but different names
-
-
-#DETE:
-# Remove the last 5 rows (consider deleting 'Business Unit' and 'Classification')
-# Address remaining null values in each dataset for concerning columns
-# Define 'A', 'N', 'SA', 'M', 'D
-# Compute average ages in dete dataset
-# Determine the Columns with same data but different names
 
